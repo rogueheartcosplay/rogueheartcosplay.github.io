@@ -1,13 +1,13 @@
 .navbar {
     align-items: center;
-    background-color: #333;
+    background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
     display: flex;
     justify-content: space-between;
-    padding-bottom: 2rem;
+    padding-bottom: 32px;
     padding-left: 0;
     padding-right: 0;
-    padding-top: 2rem;
+    padding-top: 32px;
     position: sticky;
     top: 0;
     width: 100vw;
@@ -15,11 +15,11 @@
   }
   
   .navbar-left .logo {
-    font-size: 1.5rem;
+    font-size: 24px;
     font-weight: bold;
     color: #fff;
     text-decoration: none;
-    padding-left: 10rem;
+    padding-left: 5vw;
     display: flex;
   }
   
@@ -27,11 +27,11 @@
     list-style-type: none;
     display: flex;
     margin: 0;
-    padding: 0;
+    padding-right: 5vw;
   }
   
   .navbar-right .nav-links li {
-    margin-right: 2rem;
+    margin-right: 32px;
   }
   
   .navbar-right .nav-links a {

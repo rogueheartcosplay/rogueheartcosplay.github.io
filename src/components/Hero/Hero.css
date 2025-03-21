@@ -1,0 +1,16 @@
+.hero {
+  display: flex; 
+  justify-content: center; 
+  width: 100vw;
+  height: 500px;
+  top: 0;
+  position: absolute;
+  z-index: 900;
+}
+
+.hero .image {
+  display: flex;
+  width: 100vw;
+  object-fit: cover;
+  object-position: 50% 35%;
+}

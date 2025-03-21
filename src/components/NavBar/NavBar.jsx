@@ -18,6 +18,9 @@ const NavBar = () => {
                         <a href="/projects">Projects</a>
                     </li>
                     <li>
+                        <a href="/awards">Awards</a>
+                    </li>
+                    <li>
                         <a href="/contact">Contact</a>
                     </li>
                 </ul>
