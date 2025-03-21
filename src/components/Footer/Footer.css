@@ -36,3 +36,8 @@ align-items: center;
     color: #333;
     text-decoration: none;
   }
+
+  .footer-center .nav-links img {
+    height: 32px;
+    width: 32px
+  }
