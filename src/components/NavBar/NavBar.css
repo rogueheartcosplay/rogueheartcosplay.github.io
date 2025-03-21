@@ -1,18 +1,17 @@
 .navbar {
-    display: flex;
-    top: 0;
-    justify-content: space-between;
     align-items: center;
     background-color: #333;
     color: #fff;
-    padding: 1rem;
-    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 2rem;
     position: sticky;
+    top: 0;
+    width: 100vw;
     z-index: 1000;
-  }
-
-  .navbar .navbar-right {
-      padding-right: 10rem;
   }
   
   .navbar-left .logo {
@@ -20,8 +19,8 @@
     font-weight: bold;
     color: #fff;
     text-decoration: none;
-    position: left;
     padding-left: 10rem;
+    display: flex;
   }
   
   .navbar-right .nav-links {
@@ -29,7 +28,6 @@
     display: flex;
     margin: 0;
     padding: 0;
-    position: right
   }
   
   .navbar-right .nav-links li {
