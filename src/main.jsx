@@ -2,10 +2,10 @@ import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './index.css'
 import App from './App.jsx'
-import Home from './pages/Home.jsx'
-import Costumes from './pages/Costumes.jsx'
-import Awards from './pages/Awards.jsx'
-import Contact from './pages/Contact.jsx'
+import Home from './pages/Home/Home.jsx'
+import Costumes from './pages/Costumes/Costumes.jsx'
+import Awards from './pages/Awards/Awards.jsx'
+import Contact from './pages/Contact/Contact.jsx'
 
 createRoot(document.getElementById('root')).render(
     // <App />

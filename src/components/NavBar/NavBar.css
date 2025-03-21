@@ -8,10 +8,9 @@
     padding-left: 0;
     padding-right: 0;
     padding-top: 32px;
-    position: sticky;
-    top: 0;
     width: 100vw;
     z-index: 1000;
+    position: absolute;
   }
   
   .navbar-left .logo {
