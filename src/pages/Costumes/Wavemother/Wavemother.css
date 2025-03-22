@@ -1,11 +1,11 @@
-.contact {
+.wavemother {
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: center;
   }
 
-  .contact .content {
+.wavemother .content {
     display: flex;
     flex-direction: column;
     width: 37vw;

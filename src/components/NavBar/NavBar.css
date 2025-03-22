@@ -1,6 +1,7 @@
 .navbar {
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)); */
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -31,6 +32,7 @@
   
   .navbar-right .nav-links li {
     margin-right: 32px;
+    font-size: 20px;
   }
   
   .navbar-right .nav-links a {
