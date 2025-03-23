@@ -1,9 +1,10 @@
 import React from 'react';
 import './Media.css';
 
-const Media = () => {
+const Media = ({children}) => {
   return (
     <div className="media">
+      {children}
     </div>
   );
 };
