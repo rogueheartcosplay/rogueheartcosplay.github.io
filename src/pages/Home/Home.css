@@ -4,3 +4,13 @@
     justify-content: start;
     align-items: center;
   }
+
+.home .content {
+    display: flex;
+    flex-direction: column;
+    width: 37vw;
+}
+
+.home .content h2 {
+  align-self: center;
+}
