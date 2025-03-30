@@ -8,7 +8,7 @@
 .home .content {
     display: flex;
     flex-direction: column;
-    width: 37vw;
+    width: 37%;
 }
 
 .home .content h2 {

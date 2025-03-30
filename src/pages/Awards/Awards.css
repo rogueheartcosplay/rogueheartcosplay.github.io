@@ -8,7 +8,7 @@
 .awards .content {
   display: flex;
   flex-direction: column;
-  width: 37vw;
+  width: 37%;
 }
 
 .awards .content h2 {
