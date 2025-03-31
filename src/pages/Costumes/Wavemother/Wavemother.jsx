@@ -73,7 +73,7 @@ function Wavemother() {
                   Photoshoots: 4
                 </li>
                 <li>
-                  Conventions Worn to: 2 (and counting!)
+                  Conventions: 2 (and counting!)
                 </li>
                 <li>
                   Awards: 1

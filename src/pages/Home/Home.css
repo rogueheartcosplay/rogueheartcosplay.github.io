@@ -8,9 +8,20 @@
 .home .content {
     display: flex;
     flex-direction: column;
-    width: 37%;
+    width: 60%;
 }
 
 .home .content h2 {
   align-self: center;
+}
+
+.home .content p {
+  font-size: 1.5em;
+}
+
+.home .media img {
+  display: flex;
+  object-fit: cover;
+  width: 30%;
+  padding: 4px;
 }
