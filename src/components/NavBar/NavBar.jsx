@@ -15,8 +15,11 @@ const NavBar = () => {
                     <li>
                         <Link to="/">Home</Link>
                     </li>
-                    <li>
+                    {/* <li>
                         <Link to="/costumes">Costumes</Link>
+                    </li> */}
+                    <li>
+                        <Link to="/blog">Blog</Link>
                     </li>
                     <li>
                         <Link to="/awards">Awards</Link>

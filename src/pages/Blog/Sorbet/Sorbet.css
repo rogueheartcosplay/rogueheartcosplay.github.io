@@ -1,0 +1,16 @@
+.sorbet {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+
+.sorbet .content {
+    display: flex;
+    flex-direction: column;
+    width: 37%;
+}
+
+.sorbet .content h2 {
+  align-self: center;
+}
