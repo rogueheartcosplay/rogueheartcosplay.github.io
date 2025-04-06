@@ -214,7 +214,7 @@ function Sorbet() {
             <p><strong>8.</strong>  Prepare the “treasure insects" (coins and gems) to add to the sorbet
             <ul>
               <li>If desired, cut a coin in half so it can peek out of the sorbet</li>
-              <li>Take the gems out of the rings. To do so, snip the edge of the ring with scissors. Pry the gem out</li>
+              <li>Take the gems out of the rings. To do so, snip the edge of the ring with scissors. Peel the gem out of the setting</li>
             </ul>
             </p>
             </div>
@@ -252,7 +252,7 @@ function Sorbet() {
             <p><strong>11.</strong>  Score lines into the foam spheres to mimic the look of real sorbet
             <ul>
               <li>The lines should run vaguely parallel to each other</li>
-              <li>Use one scissor blade to drag a line across the foam</li>
+              <li>Use one scissor blade to scratch a line across the foam</li>
             </ul>
             </p>
             </div>
@@ -277,7 +277,7 @@ function Sorbet() {
             <p><strong>13.</strong>  Use a paper towel to dab off extra paint
             <ul>
               <li>If a section of paint becomes too saturated, absorb some with a paper towel</li>
-              <li>The paint will take a long time to dry, so there is plenty of working time</li>
+              <li>The paint will dry slowly, so there is plenty of working time</li>
             </ul>
             </p>
             </div>
@@ -289,7 +289,7 @@ function Sorbet() {
             <div className="content">
             <p><strong>14.</strong>  Let the paint dry for at least a few hours
             <ul>
-              <li>Water color paint will take longer to dry on foam (plastic) than it will on paper</li>
+              <li>Watercolor paint will take longer to dry on foam than it will on paper</li>
             </ul>
             </p>
             </div>
