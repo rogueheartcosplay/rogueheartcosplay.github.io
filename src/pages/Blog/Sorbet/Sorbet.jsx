@@ -211,7 +211,7 @@ function Sorbet() {
               <img style={{width:'31%'}} src={IMG_7807} alt="Craft supplies"/>
             </Media>
             <div className="content">
-            <p><strong>8.</strong>  Prepare the “treasure insects" (coins and gems) to add to the foam
+            <p><strong>8.</strong>  Prepare the “treasure insects" (coins and gems)
             <ul>
               <li>If desired, cut a coin in half so it can peek out of the foam</li>
               <li>Take the gems out of the rings. To do so, snip the edge of the ring with scissors. Peel the gem out of the setting</li>
