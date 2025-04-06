@@ -19,7 +19,8 @@ function Home() {
           <img src={aloy} alt="Rogue Heart Cosplay standing in the sand dressed as Aloy from Horizon Forbidden West."/>
           <img src={tobe} alt="Rogue Heart Cosplay standing on a rock dressed as 2B from Nier: Automata."/>
         </Media>
-        <h2>Just like my costumes, this site is a work-in-progress</h2>
+        <p style={{alignSelf:'center'}}>Photo 1 & 3:  Infinity Spiral Photography, Photo 2: YickCL</p>
+        {/* <h2>Just like my costumes, this site is a work-in-progress</h2> */}
       </div>
     </div>
   )

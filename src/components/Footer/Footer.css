@@ -14,9 +14,18 @@ align-items: center;
   }
 
   .footer .footer-left {
-      padding: 0;
+      padding-right: 0;
   }
-  
+
+  .footer-left p {
+    font-size: 1;
+    padding-left: 5rem
+  }
+
+  .footer .footer-right {
+    padding-right: 20px;
+  }
+
   .footer-center .nav-links {
     list-style-type: none;
     display: flex;
