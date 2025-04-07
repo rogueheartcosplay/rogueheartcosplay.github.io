@@ -178,7 +178,7 @@ function Wavemother() {
                 <img style={{width:'25%'}} src={GaqbhqvWgAEHiF} alt=""/>
               </Media>
         <div className="content">
-              <p>The back panel is stretchy, and the front is non-stretch woven. I made them opaque for my own comfort and to hide any undergarments.</p>
+              <p>The back skin tone panel is stretchy, and the front is non-stretch woven. I made them opaque for my own comfort and to hide any undergarments.</p>
               <p>To match my skin tone, I layered mesh over opaque fabric. I don't enjoy dyeing fabric, so I experimented with layering and found that it worked!</p>
               <p>There’s also an invisible zipper hidden in one of the back seams. (See the dark blue line in the left photo)</p>
         </div>
