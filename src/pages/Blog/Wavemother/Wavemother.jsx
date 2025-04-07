@@ -252,7 +252,7 @@ function Wavemother() {
               <p>I also began to sew an underbust corset but decided not to wear one with the costume after doing a test fit. C'est la vie!</p>
               <p>Lastly, I found some opaque skin tone dance tights. These help keep me comfortable walking around a convention and look great in photos. (Mariia Dancewear "True Bare" tights in NO1.)</p>
             <h3>Jewelry</h3>
-              <p>All of the chains were assembled with some coral-shaped connectors, glass bead connectors, and tiny brass rings. </p>
+              <p>All of the chains were assembled with coral-shaped connectors, glass bead connectors, and tiny brass rings. </p>
               <p>A few of the chains broke during a test fit, so I added lobster clasps to the leg chains to make putting the costume on/off easier. This is why I frequently test fit costumes while creating them.</p>
         </div>
               <Media>
@@ -336,34 +336,102 @@ function Wavemother() {
               <p>At this point, I was ready to debut version 1.0 at C2E2</p>
               <p>Overall I was really happy with the costume, but ended up making some upgrades.</p>
               <p>Photo credits: taken by my handler, edited by me.</p>
+        </div>
+              <Media>
+                <img src={GaviMOmXUAAc83R} alt=""/>
+                <img src={GaviMOjW8AAXYt} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Improvements</h3>
               <p>My first grievance was the center front illusion panel. The fabric would wrinkle and I didn’t love the way it fit.</p>
               <p>I was nervous about removing it, but knew I wouldn’t want to wear the costume again if I left it as-is. It really wasn’t bad, but you can clearly see the panel.</p>
+        </div>
+              <Media>
+                <img src={GavkwScWYAApXRg} alt=""/>
+              </Media>
+        <div className="content">
               <p>To fix it, I removed most of the panel, made a really strong nylon mesh strap to hold the center front together, and added some boning to the cutout. </p>
               <p>It’s a little bit messier on the inside now, but well worth it. The clear strap is super hard to see from a normal distance.</p>
               <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume. And besides, it was a great learning experience to sew!</p>
+        </div>
+              <Media>
+                <img src={GawpcT0WEAAJOmK} alt=""/>
+                <img src={GawpcT2WAAACL6x} alt=""/>
+              </Media>
+        <div className="content">
               <p>The other upgrade I made to the center front was to sculpt a new jewelry connector. In part to be more accurate, and in part to cover the clear strap that I just added. </p>
+        </div>
+              <Media>
+                <img src={Gawuf3qWoAA272e} alt=""/>
+              </Media>
+        <div className="content">
               <p>I free-hand sculpted it from worbla and painted with PlaidFX acrylics.</p>
+        </div>
+              <Media>
+                <img src={Gawuf3oXQAA0yqG} alt=""/>
+                <img src={Gawuf3qWsAAtXRK} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Cape</h3>
               <p>After the much-needed improvements I switched gears and made a cape!</p>
               <p>I patterned it by folding a huge piece of paper, making sure to include the pleats. </p>
+        </div>
+              <Media>
+                <img style={{width:'35%'}} src={Gaw3A7SW0AAeCYM} alt=""/>
+              </Media>
+        <div className="content">
               <p>The wave motif was hand drawn and painted with acrylics and silver gel pen. Before painting, I thread marked the outline so I didn't need to use pencil or chalk. It was really soothing to sit outside and paint.</p>
+        </div>
+              <Media>
+                <img src={Gaw3A7TWAAEAHzz} alt=""/>
+                <img src={Gaw3A7QWUAAGqoO} alt=""/>
+              </Media>
+        <div className="content">
               <p>For attachments, I wanted something low-profile and easy to put on. The solution was to hide a button under the shoulder armor and add loops to the cape!</p>
               <p>Sometimes the simplest option is the best option.</p>
+        </div>
+              <Media>
+                <img src={Gaw4yOEWoAADOVT} alt=""/>
+                <img src={Gaw4yOFWIAAaJ9V} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Staff</h3>
               <p>Now to really look the part of a wizard, I made the starting quarterstaff from BG3.</p>
               <p>I planned to bring this prop to a river photoshoot, so my goal was to make it quickly & cheaply in case it was damaged by the water. (🎶Down, down, down by the river...🎵)</p>
               <p>I cut a 1.25”x72” wooden dowel down to 64” with a hand saw, glued some fabric strips in place with E6000, contact cemented the EVA foam details, and added paint!</p>
+        </div>
+              <Media>
+                <img src={GaxOJj5WgAACszH} alt=""/>
+                <img src={GaxOJj4WAAAmWdB} alt=""/>
+              </Media>
+        <div className="content">
               <p>As always, I wore a respirator and gloves when working with E6000 and contact cement.</p>
               <p>I experimented with a "verdigris" look on the paint by using some teal, aqua, and brown. This typically happens to metal when exposed to the elements, so I felt it was fitting for a water-themed outfit. </p>
+        </div>
+              <Media>
+                <img src={GaxOJj4WoAA4C5A} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Wig</h3>
               <p>Last but not least, I cut and styled a new wig. The original was okay, but I wanted to recreate my favorite hairstyle from the game. </p>
               <p>I cut 12” off the original wig length, added some layers, and secured it in a half-up ponytail. Easy!</p>
+        </div>
+              <Media>
+                <img src={GaxP3M1WcAAUJYV} alt=""/>
+                <img src={GaxP3M0XEAAkg1X} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Finished Costume</h3>
-              <p>That concludes the build :)</p>
-              <p>Please enjoy more photos of the finished costume! </p>
+              <p>That concludes the build :) Please enjoy more photos of the finished costume! </p>
+              <p>P.S. This was not originally planned as a competition build, but I decided to enter an online contest with it. I was delighted to win Best Journeyman!</p>
               <p>Photo credits: Infinity Spiral Photography</p>
-              <p>This was not originally planned as a competition build, but I decided to enter an online contest with it. I was delighted to win Best Journeyman!</p>
+        </div>
+              <Media>
+                <img src={GaxRnSQWIAI6TKj} alt=""/>
+                <img src={GaxRnSPW0AAgkET} alt=""/>
+                <img src={GaxRnSPXAAA1OTJ} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Stats</h3>
               <p>
                 <li>
@@ -377,6 +445,9 @@ function Wavemother() {
                 </li>
                 <li>
                   Awards: 1
+                </li>
+                <li>
+                  Enjoyment: Infinite
                 </li>
               </p>
         </div>
