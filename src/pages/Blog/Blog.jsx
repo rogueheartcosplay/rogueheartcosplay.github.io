@@ -9,9 +9,9 @@ function Blog() {
     <div className="blog">
       <Hero/>
       <h1>Blog</h1>
-      {/* <h2>
+      <h2>
           <Link to="/blog/wavemother">Wavemother's Robe</Link> - Build Log
-      </h2> */}
+      </h2>
       <h2>
           <Link to="/blog/sorbet">Exorcism Sorbet</Link> - Tutorial
       </h2>
