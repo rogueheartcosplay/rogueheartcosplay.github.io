@@ -197,11 +197,11 @@ function Wavemother() {
               <p>The long sleeve is stretch faux suede, unlined. The edges won’t fray and the material is warm even without a lining. The upper sleeve <strong>is</strong> lined and has two layers of lace trim inserted into the seams.</p>
         </div>
               <Media>
-                <img style={{width:'25%'}} src={Gaqh17EWYAAvFN5} alt=""/>
                 <img style={{width:'25%'}} src={Gaqh17HWYAEhrc4} alt=""/>
+                <img style={{width:'25%'}} src={Gaqh17HXIAAYKT} alt=""/>
               </Media>
               <Media>
-                <img style={{width:'25%'}} src={Gaqh17HXIAAYKT} alt=""/>
+                <img style={{width:'25%'}} src={Gaqh17EWYAAvFN5} alt=""/>
                 <img style={{width:'25%'}} src={Gaqh17JXcAE26X8} alt=""/>
               </Media>
         <div className="content">
@@ -219,7 +219,7 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>The skirt lining could be sewn by machine, but the majority of the lining was hand stitched in place.</p>
-              <p>I used to dislike hand sewing but this project converted me! I enjoy how precise it is.</p>
+              <p>I used to dislike hand sewing, but this project converted me! I enjoy how precise it is.</p>
         </div>
               <Media>
                 <img src={GaqpEZWQAASUv} alt=""/>
@@ -333,8 +333,7 @@ function Wavemother() {
               </Media>
         <div className="content">
             <h3>First Wear</h3>
-              <p>At this point, I was ready to debut version 1.0 at C2E2</p>
-              <p>Overall I was really happy with the costume, but ended up making some upgrades.</p>
+              <p>At this point, I was ready to debut version 1.0 at C2E2. I was really happy with the costume overall, but ended up making some upgrades.</p>
               <p>Photo credits: taken by my handler, edited by me.</p>
         </div>
               <Media>
@@ -398,7 +397,7 @@ function Wavemother() {
             <h3>Staff</h3>
               <p>Now to really look the part of a wizard, I made the starting quarterstaff from BG3.</p>
               <p>I planned to bring this prop to a river photoshoot, so my goal was to make it quickly & cheaply in case it was damaged by the water. (🎶Down, down, down by the river...🎵)</p>
-              <p>I cut a 1.25”x72” wooden dowel down to 64” with a hand saw, glued some fabric strips in place with E6000, contact cemented the EVA foam details, and added paint!</p>
+              <p>I cut a 1.25” x 72” wooden dowel down to 64” with a hand saw, glued some fabric strips in place with E6000, contact cemented the EVA foam details, and added paint!</p>
         </div>
               <Media>
                 <img src={GaxOJj5WgAACszH} alt=""/>
@@ -406,7 +405,7 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>As always, I wore a respirator and gloves when working with E6000 and contact cement.</p>
-              <p>I experimented with a "verdigris" look on the paint by using some teal, aqua, and brown. This typically happens to metal when exposed to the elements, so I felt it was fitting for a water-themed outfit. </p>
+              <p>I experimented with a "verdigris" look by using some teal, aqua, and brown paint. This typically happens to metal when exposed to the elements, so I felt it was fitting for a water-themed outfit. </p>
         </div>
               <Media>
                 <img src={GaxOJj4WoAA4C5A} alt=""/>
