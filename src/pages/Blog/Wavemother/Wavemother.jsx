@@ -78,6 +78,13 @@ import GaxP3M1WcAAUJYV from '../../../assets/GaxP3M1WcAAUJYV.jpeg'
 import GaxRnSPW0AAgkET from '../../../assets/GaxRnSPW0AAgkET.jpeg'
 import GaxRnSPXAAA1OTJ from '../../../assets/GaxRnSPXAAA1OTJ.jpeg'
 import GaxRnSQWIAI6TKj from '../../../assets/GaxRnSQWIAI6TKj.jpeg'
+import IMG_0392 from '../../../assets/IMG_0392.jpeg'
+import IMG_0642 from '../../../assets/IMG_0642.jpeg'
+import IMG_0662 from '../../../assets/IMG_0662.jpeg'
+import IMG_0678 from '../../../assets/IMG_0678.jpeg'
+import IMG_0723 from '../../../assets/IMG_0723.jpeg'
+import IMG_3295 from '../../../assets/IMG_3295.jpeg'
+import IMG_3304 from '../../../assets/IMG_3304.jpeg'
 
 import './Wavemother.css';
 
@@ -248,8 +255,25 @@ function Wavemother() {
               <p>My first concern was keeping the plunge neckline in place. In the end, I decided to create a bra that matched the neckline of the dress.</p>
               <p>To do so, I copied the pattern of a bra that I already own by covering it in tape, then transferring the tape to paper. I then adjusted the pattern to match the neckline of my dress.</p>
               <p>For materials, I used power mesh, underwire, hooks & eyes, elastic, coutil, and plush underwire casing. Since I liked the fit of the bra I own, I copied its construction instead of using a tutorial.</p>
+        </div>
+              <Media>
+                <img src={IMG_0642} alt=""/>
+                <img src={IMG_0662} alt=""/>
+                <img src={IMG_0678} alt=""/>
+              </Media>
+        <div className="content">
               <p>Once it was done, I hand stitched the bra into the front neckline of the dress. The straps and band were left free so it was easier to hook/unhook.</p>
+        </div>
+              <Media>
+                <img src={IMG_0723} alt=""/>
+              </Media>
+        <div className="content">
               <p>I also began to sew an underbust corset but decided not to wear one with the costume after doing a test fit. C'est la vie!</p>
+        </div>
+              <Media>
+                <img src={IMG_0392} alt=""/>
+              </Media>
+        <div className="content">
               <p>Lastly, I found some opaque skin tone dance tights. These help keep me comfortable walking around a convention and look great in photos. (Mariia Dancewear "True Bare" tights in NO1.)</p>
             <h3>Jewelry</h3>
               <p>All of the chains were assembled with coral-shaped connectors, glass bead connectors, and tiny brass rings. </p>
