@@ -4,6 +4,81 @@ import Media from '../../../components/Media/Media';
 import DSCF0405 from '../../../assets/DSCF0405.jpg';
 import DSCF0331 from '../../../assets/DSCF0331.jpg';
 import wavemotherReference from '../../../assets/wavemotherReference.jpg';
+import Gal7whqWYAAwjid from '../../../assets/Gal7whqWYAAwjid.jpeg';
+import Gal7whtXIAAOuR from '../../../assets/Gal7whtXIAAOuR.jpeg';
+import Gal7xMeWIAAmo6l from '../../../assets/Gal7xMeWIAAmo6l.jpeg'
+import Gal7xMhXoAACSrJ from '../../../assets/Gal7xMhXoAACSrJ.jpeg'
+import Gal7xwYXcAEFZwA from '../../../assets/Gal7xwYXcAEFZwA.jpeg'
+import Gal7xwYXcAI1Dj2 from '../../../assets/Gal7xwYXcAI1Dj2.jpeg'
+import Gal7xwZWMAAhaA0 from '../../../assets/Gal7xwZWMAAhaA0.jpeg'
+import Gal7yX3WEAAadkl from '../../../assets/Gal7yX3WEAAadkl.jpeg'
+import Gal7yX3XYAERBCf from '../../../assets/Gal7yX3XYAERBCf.jpeg'
+import Gal7yX6XMAAEpeg from '../../../assets/Gal7yX6XMAAEpeg.jpeg'
+import Gal7zE6WoAAPsxn from '../../../assets/Gal7zE6WoAAPsxn.jpeg'
+import Gam6m2zXMAE94ih from '../../../assets/Gam6m2zXMAE94ih.jpeg'
+import Gaq1iHdXcAEGdfn from '../../../assets/Gaq1iHdXcAEGdfn.jpeg'
+import Gaq1iHeXEAAmy8L from '../../../assets/Gaq1iHeXEAAmy8L.jpeg'
+import Gaq1iHeXkAE6Emt from '../../../assets/Gaq1iHeXkAE6Emt.jpeg'
+import Gaq1iHjXMAEIGtC from '../../../assets/Gaq1iHjXMAEIGtC.jpeg'
+import Gaq2kiCW8AAkKh from '../../../assets/Gaq2kiCW8AAkKh.jpeg'
+import Gaq2kiDXgAAiJEk from '../../../assets/Gaq2kiDXgAAiJEk.jpeg'
+import Gaq6UjbXYAAS1u4 from '../../../assets/Gaq6UjbXYAAS1u4.jpeg'
+import Gaq6UjSWQAATap6 from '../../../assets/Gaq6UjSWQAATap6.jpeg'
+import Gaq6UjTXMAATfxw from '../../../assets/Gaq6UjTXMAATfxw.jpeg'
+import Gaq49CbXYAEfFY1 from '../../../assets/Gaq49CbXYAEfFY1.jpeg'
+import Gaq49CZXAAAQPT8 from '../../../assets/Gaq49CZXAAAQPT8.jpeg'
+import GaqbhquWAAEBsfW from '../../../assets/GaqbhquWAAEBsfW.jpeg'
+import GaqbhquWkAAHjdd from '../../../assets/GaqbhquWkAAHjdd.jpeg'
+import GaqbhqvWgAEHiF from '../../../assets/GaqbhqvWgAEHiF.jpeg'
+import GaqbhqxXEAAABpy from '../../../assets/GaqbhqxXEAAABpy.jpeg'
+import GaqdUKlWMAAimgr from '../../../assets/GaqdUKlWMAAimgr.jpeg'
+import GaqdUKoX0AAohdj from '../../../assets/GaqdUKoX0AAohdj.jpeg'
+import Gaqf6KUXAAAdFEi from '../../../assets/Gaqf6KUXAAAdFEi.jpeg'
+import Gaqh17EWYAAvFN5 from '../../../assets/Gaqh17EWYAAvFN5.jpeg'
+import Gaqh17HWYAEhrc4 from '../../../assets/Gaqh17HWYAEhrc4.jpeg'
+import Gaqh17HXIAAYKT from '../../../assets/Gaqh17HXIAAYKT.jpeg'
+import Gaqh17JXcAE26X8 from '../../../assets/Gaqh17JXcAE26X8.jpeg'
+import GaqmIftW8AAl4wx from '../../../assets/GaqmIftW8AAl4wx.jpeg'
+import GaqmIfuWkAEX2rf from '../../../assets/GaqmIfuWkAEX2rf.jpeg'
+import GaqmIfwXcAAgWY2 from '../../../assets/GaqmIfwXcAAgWY2.jpeg'
+import GaqmIfxWsAAnbj2 from '../../../assets/GaqmIfxWsAAnbj2.jpeg'
+import GaqpEWX0AAzPnG from '../../../assets/GaqpEWX0AAzPnG.jpeg'
+import GaqpEXWUAAz8NM from '../../../assets/GaqpEXWUAAz8NM.jpeg'
+import GaqpEXXQAAXS3p from '../../../assets/GaqpEXXQAAXS3p.jpeg'
+import GaqpEZWQAASUv from '../../../assets/GaqpEZWQAASUv.jpeg'
+import GaqtUvTWkAAAaMs from '../../../assets/GaqtUvTWkAAAaMs.jpeg'
+import GaqtUvUWAAAYlGm from '../../../assets/GaqtUvUWAAAYlGm.jpeg'
+import GaqtUvVWgAAoSg9 from '../../../assets/GaqtUvVWgAAoSg9.jpeg'
+import GaqtUvVX0AEnKf from '../../../assets/GaqtUvVX0AEnKf.jpeg'
+import Gaqv4WFW0AAopXt from '../../../assets/Gaqv4WFW0AAopXt.jpeg'
+import Gaqv4WGXEAQfZZc from '../../../assets/Gaqv4WGXEAQfZZc.jpeg'
+import GaqwtwiXEAECrkd from '../../../assets/GaqwtwiXEAECrkd.jpeg'
+import GaqwtwiXEAIBOw8 from '../../../assets/GaqwtwiXEAIBOw8.jpeg'
+import Gaqy1oPXEAkA6m2 from '../../../assets/Gaqy1oPXEAkA6m2.jpeg'
+import Gaqy1oPXEAsqhzC from '../../../assets/Gaqy1oPXEAsqhzC.jpeg'
+import Gaqy1oSWwAAH78i from '../../../assets/Gaqy1oSWwAAH78i.jpeg'
+import GaviMOjW8AAXYt from '../../../assets/GaviMOjW8AAXYt.jpeg'
+import GaviMOmXUAAc83R from '../../../assets/GaviMOmXUAAc83R.jpeg'
+import GavkwScWYAApXRg from '../../../assets/GavkwScWYAApXRg.jpeg'
+import Gaw3A7QWUAAGqoO from '../../../assets/Gaw3A7QWUAAGqoO.jpeg'
+import Gaw3A7SW0AAeCYM from '../../../assets/Gaw3A7SW0AAeCYM.jpeg'
+import Gaw3A7TWAAEAHzz from '../../../assets/Gaw3A7TWAAEAHzz.jpeg'
+import Gaw4yOEWoAADOVT from '../../../assets/Gaw4yOEWoAADOVT.jpeg'
+import Gaw4yOFWIAAaJ9V from '../../../assets/Gaw4yOFWIAAaJ9V.jpeg'
+import GawpcT0WEAAJOmK from '../../../assets/GawpcT0WEAAJOmK.jpeg'
+import GawpcT2WAAACL6x from '../../../assets/GawpcT2WAAACL6x.jpeg'
+import Gawuf3oXQAA0yqG from '../../../assets/Gawuf3oXQAA0yqG.jpeg'
+import Gawuf3qWoAA272e from '../../../assets/Gawuf3qWoAA272e.jpeg'
+import Gawuf3qWsAAtXRK from '../../../assets/Gawuf3qWsAAtXRK.jpeg'
+import GaxOJj4WAAAmWdB from '../../../assets/GaxOJj4WAAAmWdB.jpeg'
+import GaxOJj4WoAA4C5A from '../../../assets/GaxOJj4WoAA4C5A.jpeg'
+import GaxOJj5WgAACszH from '../../../assets/GaxOJj5WgAACszH.jpeg'
+import GaxP3M0XEAAkg1X from '../../../assets/GaxP3M0XEAAkg1X.jpeg'
+import GaxP3M1WcAAUJYV from '../../../assets/GaxP3M1WcAAUJYV.jpeg'
+import GaxRnSPW0AAgkET from '../../../assets/GaxRnSPW0AAgkET.jpeg'
+import GaxRnSPXAAA1OTJ from '../../../assets/GaxRnSPXAAA1OTJ.jpeg'
+import GaxRnSQWIAI6TKj from '../../../assets/GaxRnSQWIAI6TKj.jpeg'
+
 import './Wavemother.css';
 
 function Wavemother() {
@@ -23,18 +98,37 @@ function Wavemother() {
         <div className="content">
             <h3>About the Costume</h3>
               <p>I fell in love with Baldur's Gate 3, which led me to recreate the Wavemother's Robe. What started as a "simple" project quickly turned into year-long build that taught me new techniques and brought me out of my comfort zone.</p>
-              <p>This build also encouraged me to iterate on my work and make improvements to it after it was "done". Building up the courage to seam rip my previous work and replace it with something better was difficult, but I'm so glad I did it.</p>
+              <p>This build also encouraged me to iterate on my work and make improvements to it after it was "done". Building up the courage to seam rip my previous work and replace it with something better was difficult, but I'm glad I did it.</p>
               <p>Photo credits: Infinity Spiral Photography</p>
             <h3>Patterning</h3>
               <p>
                 I started out by draping & flat pattern drafting the dress and sleeves. I went through 3+ mock-ups for the dress itself (and even ended up changing it slightly after the first wear!) 
               </p>
+        </div>
+              <Media>
+                <img src={Gal7whqWYAAwjid} alt=""/>
+                <img src={Gal7whtXIAAOuR} alt=""/>
+              </Media>
+        <div className="content">
               <p>
                 There was a lot to consider: how much leg am I comfortable showing? How much plunge? Do I need a corset/special structure? Where do I put the zipper?
               </p>
+        </div>
+              <Media>
+                <img src={Gal7xMhXoAACSrJ} alt=""/>
+                <img src={Gal7xMeWIAAmo6l} alt=""/>
+              </Media>
+        <div className="content">
               <p>
-                The sleeves were by far the most difficult part. They took 5+ mock-ups before I was happy with the look & range of movement. I tried some really funky adjustments to the sleeve cap before landing on a slight puff sleeve to fit my biceps and allow me to raise my arms.
+                The sleeves were by far the most difficult part. They took 5+ mock-ups before I was happy with the look & range of movement. I tried some really funky adjustments to the sleeve cap before landing on a slight puff sleeve (top center photo) to fit my biceps and allow me to raise my arms.
               </p>
+        </div>
+              <Media>
+                <img src={Gal7xwYXcAI1Dj2} alt=""/>
+                <img src={Gal7xwYXcAEFZwA} alt=""/>
+                <img src={Gal7xwZWMAAhaA0} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Dress Materials</h3>
               <p>
                 Amidst the patterning, I ordered a lot of fabric swatches. I spent a few weeks prowling the internet for my perfect fish scale brocade. My main three priorities were: 
@@ -44,36 +138,111 @@ function Wavemother() {
                   <li>Be a suitable shade of aqua -- this is the <strong>wave</strong>mother's robe, after all!</li>
                 </ol>
               </p>
+        </div>
+              <Media>
+                <img src={Gal7yX6XMAAEpeg} alt=""/>
+                <img src={Gal7yX3WEAAadkl} alt=""/>
+              </Media>
+        <div className="content">
               <p>
                 I ended up finding a lovely upholstery fabric. It's slightly thicker than I wanted and the shade of aqua is a little too dark, but it met my first two priorities so I was willing to compromise. 
               </p>
+        </div>
+              <Media>
+                <img src={Gal7yX3XYAERBCf} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Crochet Trim</h3>
               <p>
                 While on the hunt for materials, I also decided that I would learn to crochet so I could make my own lace trim for the robe. It was cost-effective (lace is expensive!), easy to customize, and wouldn’t require any dyeing to get the right shade.
               </p>
               <p>
-                After some experimentation, I ended up modifying this <a href="https://freevintagecrochet.com/edging-patterns/spool56/8081-chippendale-edging-pattern">free vintage pattern</a> (right)
-              </p>
-              <p>
+                After some experimentation, I ended up modifying this <a href="https://freevintagecrochet.com/edging-patterns/spool56/8081-chippendale-edging-pattern">free vintage pattern. </a>
                 The trim was made with size 30 thread and a size 10 hook. There are about 12 yards total in the cosplay! 
               </p>
+        </div>
+              <Media>
+                <img src={Gal7zE6WoAAPsxn} alt=""/>
+                <img src={Gam6m2zXMAE94ih} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Dress</h3>
               <p>There are very few seams in the reference, so I tried to minimize them in my pattern. The front and back (excluding skin-tone panels) are only 6 pieces total.</p>
+        </div>
+              <Media>
+                <img style={{width:'25%'}} src={GaqbhquWAAEBsfW} alt=""/>
+                <img style={{width:'25%'}} src={GaqbhquWkAAHjdd} alt=""/>
+              </Media>
+              <Media>
+                <img style={{width:'25%'}} src={GaqbhqxXEAAABpy} alt=""/>
+                <img style={{width:'25%'}} src={GaqbhqvWgAEHiF} alt=""/>
+              </Media>
+        <div className="content">
               <p>The back panel is stretchy, and the front is non-stretch woven. I made them opaque for my own comfort and to hide any undergarments.</p>
               <p>To match my skin tone, I layered mesh over opaque fabric. I don't enjoy dyeing fabric, so I experimented with layering and found that it worked!</p>
-              <p>There’s also an invisible zipper hidden in one of the back seams! (See the dark blue line in the left photo)</p>
+              <p>There’s also an invisible zipper hidden in one of the back seams. (See the dark blue line in the left photo)</p>
+        </div>
+              <Media>
+                <img src={GaqdUKlWMAAimgr} alt=""/>
+                <img src={GaqdUKoX0AAohdj} alt=""/>
+              </Media>
+        <div className="content">
               <p>For the lining, I used a much thinner satin fabric where possible to reduce bulk. However, the skirt lining is very visible so I used more of the scale fabric to match the reference.</p>
+        </div>
+              <Media>
+                <img src={Gaqf6KUXAAAdFEi} alt=""/>
+              </Media>
+        <div className="content">
               <p>Now onto the sleeves!</p>
-              <p>The long sleeve is stretch faux suede, unlined. The edges won’t fray and the material is warm even without a lining.</p>
-              <p>The upper sleeve <strong>is</strong> lined and has two layers of lace trim inserted into the seams.</p>
+              <p>The long sleeve is stretch faux suede, unlined. The edges won’t fray and the material is warm even without a lining. The upper sleeve <strong>is</strong> lined and has two layers of lace trim inserted into the seams.</p>
+        </div>
+              <Media>
+                <img style={{width:'25%'}} src={Gaqh17EWYAAvFN5} alt=""/>
+                <img style={{width:'25%'}} src={Gaqh17HWYAEhrc4} alt=""/>
+              </Media>
+              <Media>
+                <img style={{width:'25%'}} src={Gaqh17HXIAAYKT} alt=""/>
+                <img style={{width:'25%'}} src={Gaqh17JXcAE26X8} alt=""/>
+              </Media>
+        <div className="content">
               <p>There was a lot of hand basting during assembly.</p>
               <p>The outer sleeve was basted in place before sewing by machine, and I hand stitched the long sleeve with a backstitch due to how thick the seam was.</p>
               <p>All of the lace was basted in place before sewing the lining.</p>
+        </div>
+              <Media>
+                <img src={GaqmIftW8AAl4wx} alt=""/>
+                <img src={GaqmIfuWkAEX2rf} alt=""/>
+              </Media>
+              <Media>
+                <img src={GaqmIfwXcAAgWY2} alt=""/>
+                <img src={GaqmIfxWsAAnbj2} alt=""/>
+              </Media>
+        <div className="content">
               <p>The skirt lining could be sewn by machine, but the majority of the lining was hand stitched in place.</p>
               <p>I used to dislike hand sewing but this project converted me! I enjoy how precise it is.</p>
+        </div>
+              <Media>
+                <img src={GaqpEZWQAASUv} alt=""/>
+                <img src={GaqpEXWUAAz8NM} alt=""/>
+              </Media>
+              <Media>
+                <img src={GaqpEWX0AAzPnG} alt=""/>
+                <img src={GaqpEXXQAAXS3p} alt=""/>
+              </Media>
+        <div className="content">
               <p>Here’s the finished dress before any decorations were added</p>
               <p>I enclosed every raw seam except for the long sleeve, which really wouldn’t have benefitted from it. </p>
               <p>I also added some foam bra inserts to the lining.</p>
+        </div>
+              <Media>
+                <img style={{width:'25%'}} src={GaqtUvTWkAAAaMs} alt=""/>
+                <img style={{width:'25%'}} src={GaqtUvUWAAAYlGm} alt=""/>
+              </Media>
+              <Media>
+                <img style={{width:'25%'}} src={GaqtUvVX0AEnKf} alt=""/>
+                <img style={{width:'25%'}} src={GaqtUvVWgAAoSg9} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Undergarments</h3>
               <p>Quite honestly, I struggled with how to secure this costume to my body. I'm usually very covered in cosplay, so this was a new challenge for me.</p>
               <p>My first concern was keeping the plunge neckline in place. In the end, I decided to create a bra that matched the neckline of the dress.</p>
@@ -85,8 +254,20 @@ function Wavemother() {
             <h3>Jewelry</h3>
               <p>All of the chains were assembled with some coral-shaped connectors, glass bead connectors, and tiny brass rings. </p>
               <p>A few of the chains broke during a test fit, so I added lobster clasps to the leg chains to make putting the costume on/off easier. This is why I frequently test fit costumes while creating them.</p>
+        </div>
+              <Media>
+                <img src={Gaqv4WFW0AAopXt} alt=""/>
+                <img src={Gaqv4WGXEAQfZZc} alt=""/>
+              </Media>
+        <div className="content">
               <p>The center front jewelry piece was also made from connectors that I purchased. They're not very close to the reference, but I thought they were pretty and had nice turqoise stones.</p>
-            <h3>Armor</h3>
+        </div>
+              <Media>
+                <img src={GaqwtwiXEAIBOw8} alt=""/>
+                <img src={GaqwtwiXEAECrkd} alt=""/>
+              </Media>
+        <div className="content">
+            <h3>Necklace</h3>
               <p>The necklace was a super quick foam build!</p>
               <p>I drew a rough pattern, adjusted on paper, then layered 2mm foam, 5mm half dowels, and puff paint for the details.</p>
               <p>I glued each layer of foam with contact cement. While gluing, I made sure to wear a respirator and gloves to avoid inhaling or touching the contact cement.</p>
@@ -94,40 +275,79 @@ function Wavemother() {
               <p>The paint is PlaidFX flexible acrylic paint. I used a few layers of their primer, a few layers of gold, and added some iridescent highlights. The gems are painted with multiple layers of aqua and iridescent paint.</p>
               <p>The center ring was a thrifty find — I used an old key ring. This made it easy to change out the center front jewelry if needed.</p>
               <p>The back of the necklace closes with snaps. I glued a piece of ribbon to both sides of the necklace with superglue, then hand stitched the snaps to the ribbon.</p>
+        </div>
+              <Media>
+                <img src={Gaqy1oPXEAkA6m2} alt=""/>
+                <img src={Gaqy1oSWwAAH78i} alt=""/>
+                <img src={Gaqy1oPXEAsqhzC} alt=""/>
+              </Media>
+        <div className="content">
+            <h3>Armor</h3>
               <p>The shoulder armor was a very similar process to the necklace. It used all of the same materials.</p>
-              <p>I placed clear tape on my dress form, drew the pattern with permanent marker, and transferred it to paper.</p>
-              <p>From there, I freehanded the swirl pattern and cut the armor out of foam.</p>
+              <p>I placed clear tape on my dress form, drew the pattern with permanent marker, and transferred it to paper. From there, I freehanded the swirl pattern and cut the armor out of foam.</p>
+        </div>
+              <Media>
+                <img src={Gaq1iHeXEAAmy8L} alt=""/>
+                <img src={Gaq1iHdXcAEGdfn} alt=""/>
+              </Media>
+        <div className="content">
               <p>Once again, I glued the foam together with contact cement. Don't forget the respirator and gloves!</p>
               <p>The raised border is 5mm half-dowel foam, the swirl details are 2mm foam, and the base shape is 5mm foam.</p>
               <p>This time, I used a rotary tool to smooth out the edges and add small divots to the armor. I wore safety glasses and a dust mask for this step as well.</p>
               <p>Finally, I used more PlaidFX flexible paint. I primed, painted with multiple shades of aqua and black, and highlighted everything with iridescent paint. All of the swirls were accentuated with a thin line of silver paint on one edge.</p>
+        </div>
+              <Media>
+                <img style={{width:'31%'}} src={Gaq1iHeXkAE6Emt} alt=""/>
+                <img style={{width:'31%'}} src={Gaq1iHjXMAEIGtC} alt=""/>
+              </Media>
+        <div className="content">
               <p>To attach the shoulder armor to the dress, I used purse magnets. I stitched the magnets to the dress and glued to the shoulder armor with E6000. Since this glue is toxic, I wore a respirator and gloves.</p>
               <p>I also made sure to score the surface of the foam with a knife so the glue had more purchase.</p>
-              <p>The magnets make it very easy to put the armor on and there's no risk of breaking them if they get caught on my wig — they'll just pop off!</p>
+              <p>The magnets make it very easy to put the armor on. They also lower the risk of breaking anything if the armor gets caught on my wig — they'll just pop off!</p>
+        </div>
+              <Media>
+                <img src={Gaq2kiCW8AAkKh} alt=""/>
+                <img src={Gaq2kiDXgAAiJEk} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Owlbear Plush</h3>
               <p>I now interrupt our regularly scheduled costuming to introduce an adorable owlbear plush!</p>
               <p>To create her, I used a crochet pattern by ComplicatedKnots and added my own details.</p>
+        </div>
+              <Media>
+                <img style={{width:'28%'}} src={Gaq49CbXYAEfFY1} alt=""/>
+                <img style={{width:'28%'}} src={Gaq49CZXAAAQPT8} alt=""/>
+              </Media>
+        <div className="content">
               <p>I patterned all of the white "fur" sections with paper and made them out of fuzzy fabric. The eyes and beak were sculpted from worbla and painted to look like wood. These were all hand stitched to the crochet base. </p>
+        </div>
+              <Media>
+                <img src={Gaq6UjTXMAATfxw} alt=""/>
+                <img style={{width:'30%'}}  src={Gaq6UjSWQAATap6} alt=""/>
+              </Media>
+        <div className="content">
               <p>Overall, she took around 40 hours to crochet, sew, and detail. This was my first time following an amigurumi pattern and I made a couple mistakes, but I love that she looks handmade.</p>
+        </div>
+              <Media>
+                <img style={{width:'60%'}} src={Gaq6UjbXYAAS1u4} alt=""/>
+              </Media>
+        <div className="content">
             <h3>First Wear</h3>
               <p>At this point, I was ready to debut version 1.0 at C2E2</p>
               <p>Overall I was really happy with the costume, but ended up making some upgrades.</p>
               <p>Photo credits: taken by my handler, edited by me.</p>
             <h3>Improvements</h3>
               <p>My first grievance was the center front illusion panel. The fabric would wrinkle and I didn’t love the way it fit.</p>
-              <p>I was nervous about removing it, but knew I wouldn’t want to wear the costume again if I left it as-is.</p>
-              <p>It really wasn’t bad, but you can clearly see the panel.</p>
+              <p>I was nervous about removing it, but knew I wouldn’t want to wear the costume again if I left it as-is. It really wasn’t bad, but you can clearly see the panel.</p>
               <p>To fix it, I removed most of the panel, made a really strong nylon mesh strap to hold the center front together, and added some boning to the cutout. </p>
-              <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume. And besides, it was a great learning experience to sew!</p>
               <p>It’s a little bit messier on the inside now, but well worth it. The clear strap is super hard to see from a normal distance.</p>
-              <p>The other upgrade I made to the center front was to sculpt a new jewelry connector. </p>
-              <p>In part to be more accurate, and in part to cover the clear strap that I just added. </p>
+              <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume. And besides, it was a great learning experience to sew!</p>
+              <p>The other upgrade I made to the center front was to sculpt a new jewelry connector. In part to be more accurate, and in part to cover the clear strap that I just added. </p>
               <p>I free-hand sculpted it from worbla and painted with PlaidFX acrylics.</p>
             <h3>Cape</h3>
               <p>After the much-needed improvements I switched gears and made a cape!</p>
               <p>I patterned it by folding a huge piece of paper, making sure to include the pleats. </p>
               <p>The wave motif was hand drawn and painted with acrylics and silver gel pen. Before painting, I thread marked the outline so I didn't need to use pencil or chalk. It was really soothing to sit outside and paint.</p>
-              <p>The fabric in the cape is leftover from the dress.</p>
               <p>For attachments, I wanted something low-profile and easy to put on. The solution was to hide a button under the shoulder armor and add loops to the cape!</p>
               <p>Sometimes the simplest option is the best option.</p>
             <h3>Staff</h3>
