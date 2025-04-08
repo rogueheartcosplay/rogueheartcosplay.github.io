@@ -85,6 +85,23 @@ import IMG_0678 from '../../../assets/IMG_0678.jpeg'
 import IMG_0723 from '../../../assets/IMG_0723.jpeg'
 import IMG_3295 from '../../../assets/IMG_3295.jpeg'
 import IMG_3304 from '../../../assets/IMG_3304.jpeg'
+import IMG_0677 from '../../../assets/IMG_0677.jpeg'
+import IMG_0287 from '../../../assets/IMG_0287.jpeg'
+import DSCF0315 from '../../../assets/DSCF0315.jpg'
+import IMG_8971 from '../../../assets/IMG_8971.jpeg'
+import IMG_9680 from '../../../assets/IMG_9680.png'
+import IMG_3111 from '../../../assets/IMG_3111.jpeg'
+import IMG_3307 from '../../../assets/IMG_3307.jpeg'
+import IMG_3252 from '../../../assets/IMG_3252.jpeg'
+import IMG_3258 from '../../../assets/IMG_3258.jpeg'
+import IMG_3479 from '../../../assets/IMG_3479.jpeg'
+import IMG_3484 from '../../../assets/IMG_3484.jpeg'
+import IMG_3493 from '../../../assets/IMG_3493.jpeg'
+import IMG_3561 from '../../../assets/IMG_3561.jpeg'
+import IMG_3570 from '../../../assets/IMG_3570.jpeg'
+import IMG_3592 from '../../../assets/IMG_3592.jpeg'
+import Gaq49CbWwAAnN4w from '../../../assets/Gaq49CbWwAAnN4w.jpeg'
+import DSCF0211 from '../../../assets/DSCF0211.jpg'
 
 import './Wavemother.css';
 
@@ -104,8 +121,8 @@ function Wavemother() {
         </Media>
         <div className="content">
             <h3>About the Costume</h3>
-              <p>I fell in love with Baldur's Gate 3, which led me to recreate the Wavemother's Robe. What started as a "simple" project quickly turned into year-long build that taught me new techniques and brought me out of my comfort zone.</p>
-              <p>This build also encouraged me to iterate on my work and make improvements to it after it was "done". Building up the courage to seam rip my previous work and replace it with something better was difficult, but I'm glad I did it.</p>
+              <p>I fell in love with Baldur's Gate 3 and decided to cosplay the Wavemother's Robe. What started as a "simple" project quickly turned into year-long adventure that taught me new techniques and brought me out of my comfort zone.</p>
+              <p>This costume also encouraged me to iterate on my work and make improvements after it was "done". Building up the courage to seam rip my previous work and replace it with something better was difficult, but I'm glad I did it.</p>
               <p>Photo credits: Infinity Spiral Photography</p>
             <h3>Patterning</h3>
               <p>
@@ -138,9 +155,9 @@ function Wavemother() {
         <div className="content">
             <h3>Dress Materials</h3>
               <p>
-                Amidst the patterning, I ordered a lot of fabric swatches. I spent a few weeks prowling the internet for my perfect fish scale brocade. My main three priorities were: 
+                Amidst the patterning, I ordered a lot of fabric swatches for the fish scale dress. My main three priorities were: 
                 <ol>
-                  <li>Be a woven pattern -- no prints or faux leather that could degrade</li>
+                  <li>Be a woven pattern -- no prints or faux leather that could deteriorate</li>
                   <li>Have 1" wide scales -- I wanted to match the proportions of the reference</li>
                   <li>Be a suitable shade of aqua -- this is the <strong>wave</strong>mother's robe, after all!</li>
                 </ol>
@@ -152,16 +169,17 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>
-                I ended up finding a lovely upholstery fabric. It's slightly thicker than I wanted and the shade of aqua is a little too dark, but it met my first two priorities so I was willing to compromise. 
+                I ended up finding a lovely upholstery fabric. It's slightly thicker than I wanted and the shade of aqua is a little too green, but it met my first two priorities so I was willing to compromise. 
               </p>
         </div>
               <Media>
+                <img src={IMG_9680} alt=""/>
                 <img src={Gal7yX3XYAERBCf} alt=""/>
               </Media>
         <div className="content">
             <h3>Crochet Trim</h3>
               <p>
-                While on the hunt for materials, I also decided that I would learn to crochet so I could make my own lace trim for the robe. It was cost-effective (lace is expensive!), easy to customize, and wouldn’t require any dyeing to get the right shade.
+                While on the hunt for materials, I decided to learn how to crochet so I could make my own lace trim for the robe. It was cost-effective (lace is expensive!), easy to customize, and wouldn’t require any dyeing to get the right shade.
               </p>
               <p>
                 After some experimentation, I ended up modifying this <a href="https://freevintagecrochet.com/edging-patterns/spool56/8081-chippendale-edging-pattern">free vintage pattern. </a>
@@ -201,12 +219,15 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>Now onto the sleeves!</p>
-              <p>The long sleeve is stretch faux suede, unlined. The edges won’t fray and the material is warm even without a lining. The upper sleeve <strong>is</strong> lined and has two layers of lace trim inserted into the seams.</p>
+              <p>The long sleeve is stretch faux suede, unlined. The edges won’t fray and the material is warm even without a lining.</p>
         </div>
               <Media>
                 <img style={{width:'25%'}} src={Gaqh17HWYAEhrc4} alt=""/>
                 <img style={{width:'25%'}} src={Gaqh17HXIAAYKT} alt=""/>
               </Media>
+        <div className="content">
+              <p>The upper sleeve is lined and has two layers of lace trim inserted into the seams.</p>
+        </div>
               <Media>
                 <img style={{width:'25%'}} src={Gaqh17EWYAAvFN5} alt=""/>
                 <img style={{width:'25%'}} src={Gaqh17JXcAE26X8} alt=""/>
@@ -238,8 +259,7 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>Here’s the finished dress before any decorations were added</p>
-              <p>I enclosed every raw seam except for the long sleeve, which really wouldn’t have benefitted from it. </p>
-              <p>I also added some foam bra inserts to the lining.</p>
+              <p>I enclosed every raw seam except for the long sleeve (as mentioned before). I also added some foam bra inserts to the lining for shaping.</p>
         </div>
               <Media>
                 <img style={{width:'25%'}} src={GaqtUvTWkAAAaMs} alt=""/>
@@ -251,13 +271,18 @@ function Wavemother() {
               </Media>
         <div className="content">
             <h3>Undergarments</h3>
-              <p>Quite honestly, I struggled with how to secure this costume to my body. I'm usually very covered in cosplay, so this was a new challenge for me.</p>
-              <p>My first concern was keeping the plunge neckline in place. In the end, I decided to create a bra that matched the neckline of the dress.</p>
+              <p>This is a more revealing costume than I'm used to wearing, so I wanted to make sure everything felt secure.</p>
+              <p>To keep the neckline in place, I decided to make a custom bra and sew it into the dress.</p>
               <p>To do so, I copied the pattern of a bra that I already own by covering it in tape, then transferring the tape to paper. I then adjusted the pattern to match the neckline of my dress.</p>
-              <p>For materials, I used power mesh, underwire, hooks & eyes, elastic, coutil, and plush underwire casing. Since I liked the fit of the bra I own, I copied its construction instead of using a tutorial.</p>
         </div>
               <Media>
+                <img src={IMG_0677} alt=""/>
                 <img src={IMG_0642} alt=""/>
+              </Media>
+        <div className="content">
+              <p>I used power mesh, underwire, hooks & eyes, elastic, coutil, and plush underwire casing. Since I liked the fit of the bra I own, I copied its construction instead of using a tutorial.</p>
+        </div>
+              <Media>
                 <img src={IMG_0662} alt=""/>
                 <img src={IMG_0678} alt=""/>
               </Media>
@@ -268,13 +293,19 @@ function Wavemother() {
                 <img src={IMG_0723} alt=""/>
               </Media>
         <div className="content">
-              <p>I also began to sew an underbust corset but decided not to wear one with the costume after doing a test fit. C'est la vie!</p>
+              <p>I also began to sew an underbust corset bunnysuit (modified Aranea Black pattern). After doing a test fit, I decided not to wear one with the costume. C'est la vie!</p>
         </div>
               <Media>
+                <img src={IMG_0287} alt=""/>
                 <img src={IMG_0392} alt=""/>
               </Media>
         <div className="content">
-              <p>Lastly, I found some opaque skin tone dance tights. These help keep me comfortable walking around a convention and look great in photos. (Mariia Dancewear "True Bare" tights in NO1.)</p>
+              <p>Lastly, I found some opaque skin tone dance tights. These help keep me comfortable and are hardly noticable in photos. (Mariia Dancewear True Bare tights in NO1, if you were curious!)</p>        
+        </div>
+              <Media>
+                <img src={DSCF0315} alt=""/>
+              </Media>
+        <div className="content">
             <h3>Jewelry</h3>
               <p>All of the chains were assembled with coral-shaped connectors, glass bead connectors, and tiny brass rings. </p>
               <p>A few of the chains broke during a test fit, so I added lobster clasps to the leg chains to make putting the costume on/off easier. This is why I frequently test fit costumes while creating them.</p>
@@ -294,16 +325,35 @@ function Wavemother() {
             <h3>Necklace</h3>
               <p>The necklace was a super quick foam build!</p>
               <p>I drew a rough pattern, adjusted on paper, then layered 2mm foam, 5mm half dowels, and puff paint for the details.</p>
-              <p>I glued each layer of foam with contact cement. While gluing, I made sure to wear a respirator and gloves to avoid inhaling or touching the contact cement.</p>
-              <p>After assembling, I used a rotary tool to smooth out the edges of the gems and add small squiggles to them. While using the rotary tool, I wore safety glasses and a dust mask to protect myself.</p>
-              <p>The paint is PlaidFX flexible acrylic paint. I used a few layers of their primer, a few layers of gold, and added some iridescent highlights. The gems are painted with multiple layers of aqua and iridescent paint.</p>
-              <p>The center ring was a thrifty find — I used an old key ring. This made it easy to change out the center front jewelry if needed.</p>
-              <p>The back of the necklace closes with snaps. I glued a piece of ribbon to both sides of the necklace with superglue, then hand stitched the snaps to the ribbon.</p>
         </div>
               <Media>
                 <img src={Gaqy1oPXEAkA6m2} alt=""/>
+                <img src={IMG_3111} alt=""/>
+              </Media>
+        <div className="content">
+              <p>I glued each layer of foam with contact cement. While gluing, I made sure to wear a respirator and gloves in a well-ventilated area to avoid inhaling or touching the contact cement.</p>
+              <p>After assembling, I used a rotary tool to smooth out the edges of the gems and add small squiggles to them. While using the rotary tool, I wore safety glasses and a dust mask to protect myself.</p>
+        </div>
+              <Media>
+                <img src={IMG_3252} alt=""/>
+                <img src={IMG_3258} alt=""/>
                 <img src={Gaqy1oSWwAAH78i} alt=""/>
-                <img src={Gaqy1oPXEAsqhzC} alt=""/>
+              </Media>
+        <div className="content">
+              <p>The paint is PlaidFX flexible acrylic paint. I used a few layers of their primer, a few layers of gold, and added some iridescent highlights. The gems are painted with multiple layers of aqua and iridescent paint.</p>
+        </div>
+              <Media>
+                <img src={IMG_3295} alt=""/>
+                <img src={IMG_3304} alt=""/>
+                <img src={IMG_3307} alt=""/>
+              </Media>
+        <div className="content">
+              <p>The back of the necklace closes with a sew-on snap. I sewed a piece of ribbon to one side of the necklace, then sewed the snap closure to the other side.</p>
+              <p>The center ring was a thrifty find — I used an old key ring. This made it easy to change out the center front jewelry if needed.</p>
+        </div>
+              <Media>
+                <img src={IMG_8971} alt=""/>
+                <img style={{width:'23%'}} src={Gaqy1oPXEAsqhzC} alt=""/>
               </Media>
         <div className="content">
             <h3>Armor</h3>
@@ -312,20 +362,29 @@ function Wavemother() {
         </div>
               <Media>
                 <img src={Gaq1iHeXEAAmy8L} alt=""/>
+                <img src={IMG_3479} alt=""/>
                 <img src={Gaq1iHdXcAEGdfn} alt=""/>
               </Media>
         <div className="content">
-              <p>Once again, I glued the foam together with contact cement. Don't forget the respirator and gloves!</p>
+              <p>Once again, I glued the foam together with contact cement. Don't forget the respirator and gloves in a well-ventilated area!</p>
               <p>The raised border is 5mm half-dowel foam, the swirl details are 2mm foam, and the base shape is 5mm foam.</p>
               <p>This time, I used a rotary tool to smooth out the edges and add small divots to the armor. I wore safety glasses and a dust mask for this step as well.</p>
-              <p>Finally, I used more PlaidFX flexible paint. I primed, painted with multiple shades of aqua and black, and highlighted everything with iridescent paint. All of the swirls were accentuated with a thin line of silver paint on one edge.</p>
         </div>
               <Media>
-                <img style={{width:'31%'}} src={Gaq1iHeXkAE6Emt} alt=""/>
-                <img style={{width:'31%'}} src={Gaq1iHjXMAEIGtC} alt=""/>
+                <img src={IMG_3484} alt=""/>
+                <img src={IMG_3493} alt=""/>
+                <img src={Gaq1iHeXkAE6Emt} alt=""/>
               </Media>
         <div className="content">
-              <p>To attach the shoulder armor to the dress, I used purse magnets. I stitched the magnets to the dress and glued to the shoulder armor with E6000. Since this glue is toxic, I wore a respirator and gloves.</p>
+              <p>Finally, I used more PlaidFX flexible paint. I primed with black paint, painted the swirls with multiple shades of aqua, and highlighted everything with iridescent paint. All of the swirls were accentuated with a thin line of silver paint on one edge.</p>
+        </div>
+              <Media>
+                <img src={IMG_3561} alt=""/>
+                <img src={IMG_3570} alt=""/>
+                <img src={Gaq1iHjXMAEIGtC} alt=""/>
+              </Media>
+        <div className="content">
+              <p>To attach the shoulder armor to the dress, I used purse magnets. I stitched the magnets to the dress and glued to the shoulder armor with E6000. Since this glue is toxic, I wore a respirator and gloves in a well-ventilated area while working with it.</p>
               <p>I also made sure to score the surface of the foam with a knife so the glue had more purchase.</p>
               <p>The magnets make it very easy to put the armor on. They also lower the risk of breaking anything if the armor gets caught on my wig — they'll just pop off!</p>
         </div>
@@ -336,11 +395,11 @@ function Wavemother() {
         <div className="content">
             <h3>Owlbear Plush</h3>
               <p>I now interrupt our regularly scheduled costuming to introduce an adorable owlbear plush!</p>
-              <p>To create her, I used a crochet pattern by ComplicatedKnots and added my own details.</p>
+              <p>To create her, I used a crochet pattern by ComplicatedKnots and added my own details. (A worthy second crochet project ever, right?)</p>
         </div>
               <Media>
                 <img style={{width:'28%'}} src={Gaq49CbXYAEfFY1} alt=""/>
-                <img style={{width:'28%'}} src={Gaq49CZXAAAQPT8} alt=""/>
+                <img style={{width:'28%'}} src={Gaq49CbWwAAnN4w} alt=""/>              
               </Media>
         <div className="content">
               <p>I patterned all of the white "fur" sections with paper and made them out of fuzzy fabric. The eyes and beak were sculpted from worbla and painted to look like wood. These were all hand stitched to the crochet base. </p>
@@ -350,7 +409,7 @@ function Wavemother() {
                 <img style={{width:'30%'}}  src={Gaq6UjSWQAATap6} alt=""/>
               </Media>
         <div className="content">
-              <p>Overall, she took around 40 hours to crochet, sew, and detail. This was my first time following an amigurumi pattern and I made a couple mistakes, but I love that she looks handmade.</p>
+              <p>Overall, she took around 40 hours to crochet, sew, and detail. I made a couple mistakes, but I love that she looks handmade.</p>
         </div>
               <Media>
                 <img style={{width:'60%'}} src={Gaq6UjbXYAAS1u4} alt=""/>
@@ -368,14 +427,16 @@ function Wavemother() {
             <h3>Improvements</h3>
               <p>My first grievance was the center front illusion panel. The fabric would wrinkle and I didn’t love the way it fit.</p>
               <p>I was nervous about removing it, but knew I wouldn’t want to wear the costume again if I left it as-is. It really wasn’t bad, but you can clearly see the panel.</p>
+              <p>Right photo by Infinity Spiral Photography.</p>
         </div>
               <Media>
                 <img src={GavkwScWYAApXRg} alt=""/>
+                <img src={DSCF0211} alt=""/>
               </Media>
         <div className="content">
               <p>To fix it, I removed most of the panel, made a really strong nylon mesh strap to hold the center front together, and added some boning to the cutout. </p>
               <p>It’s a little bit messier on the inside now, but well worth it. The clear strap is super hard to see from a normal distance.</p>
-              <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume. And besides, it was a great learning experience to sew!</p>
+              <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume :')</p>
         </div>
               <Media>
                 <img src={GawpcT0WEAAJOmK} alt=""/>
@@ -422,13 +483,13 @@ function Wavemother() {
               <p>Now to really look the part of a wizard, I made the starting quarterstaff from BG3.</p>
               <p>I planned to bring this prop to a river photoshoot, so my goal was to make it quickly & cheaply in case it was damaged by the water. (🎶Down, down, down by the river...🎵)</p>
               <p>I cut a 1.25” x 72” wooden dowel down to 64” with a hand saw, glued some fabric strips in place with E6000, contact cemented the EVA foam details, and added paint!</p>
+              <p>As always, I wore a respirator and gloves in a ventialted area when working with E6000 and contact cement.</p>
         </div>
               <Media>
                 <img src={GaxOJj5WgAACszH} alt=""/>
                 <img src={GaxOJj4WAAAmWdB} alt=""/>
               </Media>
         <div className="content">
-              <p>As always, I wore a respirator and gloves when working with E6000 and contact cement.</p>
               <p>I experimented with a "verdigris" look by using some teal, aqua, and brown paint. This typically happens to metal when exposed to the elements, so I felt it was fitting for a water-themed outfit. </p>
         </div>
               <Media>
