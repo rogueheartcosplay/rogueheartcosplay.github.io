@@ -101,6 +101,24 @@ import IMG_3561 from '../../../assets/IMG_3561.jpeg'
 import IMG_3570 from '../../../assets/IMG_3570.jpeg'
 import IMG_3592 from '../../../assets/IMG_3592.jpeg'
 import IMG_6664 from '../../../assets/IMG_6664.jpeg'
+import IMG_2230 from '../../../assets/IMG_2230.jpeg'
+import IMG_1302 from '../../../assets/IMG_1302.jpeg'
+import IMG_1121 from '../../../assets/IMG_1121.jpeg'
+import IMG_3283 from '../../../assets/IMG_3283.jpeg'
+import IMG_3619 from '../../../assets/IMG_3619.jpeg'
+import IMG_3623 from '../../../assets/IMG_3623.jpeg'
+import IMG_6485 from '../../../assets/IMG_6485.jpeg'
+import IMG_6501 from '../../../assets/IMG_6501.jpeg'
+import IMG_4806 from '../../../assets/IMG_4806.jpeg'
+import IMG_5557 from '../../../assets/IMG_5557.jpeg'
+import IMG_5627 from '../../../assets/IMG_5627.jpeg'
+import IMG_5505 from '../../../assets/IMG_5505.jpeg'
+import IMG_5612 from '../../../assets/IMG_5612.jpeg'
+import IMG_5614 from '../../../assets/IMG_5614.jpeg'
+import IMG_5088 from '../../../assets/IMG_5088.jpeg'
+import IMG_5142 from '../../../assets/IMG_5142.jpeg'
+import IMG_5641 from '../../../assets/IMG_5641.jpg'
+import IMG_6506 from '../../../assets/IMG_6506.jpg'
 import Gaq49CbWwAAnN4w from '../../../assets/Gaq49CbWwAAnN4w.jpeg'
 import DSCF0211 from '../../../assets/DSCF0211.jpg'
 
@@ -193,7 +211,7 @@ function Wavemother() {
               </Media>
         <div className="content">
             <h3>Dress</h3>
-              <p>There are very few seams in the reference, so I tried to minimize them in my pattern. The front and back (excluding skin-tone panels) are only 6 pieces total.</p>
+              <p>There are very few seams in the reference, so I tried to minimize them in my pattern. The front and back (excluding skin tone panels) are only 6 pieces total.</p>
         </div>
               <Media>
                 <img style={{width:'25%'}} src={GaqbhquWAAEBsfW} alt=""/>
@@ -205,7 +223,13 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>The back skin tone panel is stretchy, and the front is non-stretch woven. I made them opaque for my own comfort and to hide any undergarments.</p>
-              <p>To match my skin tone, I layered mesh over opaque fabric. I don't enjoy dyeing fabric, so I experimented with layering and found that it worked!</p>
+              <p>To match my skin tone, I layered mesh fabric over opaque fabric. I don't enjoy dyeing fabric, so I experimented with layering and found that it worked!</p>
+        </div>
+              <Media>
+                <img src={IMG_2230} alt=""/>
+                <img src={IMG_1302} alt=""/>
+              </Media>
+        <div className="content">
               <p>There’s also an invisible zipper hidden in one of the back seams. (See the dark blue line in the left photo)</p>
         </div>
               <Media>
@@ -324,21 +348,26 @@ function Wavemother() {
               </Media>
         <div className="content">
             <h3>Necklace</h3>
-              <p>The necklace was a super quick foam build!</p>
-              <p>I drew a rough pattern, adjusted on paper, then layered 2mm foam, 5mm half dowels, and puff paint for the details.</p>
+              <p>The necklace was a super quick foam build! First, I drew a rough pattern and adjusted it on paper.</p>
         </div>
               <Media>
                 <img src={Gaqy1oPXEAkA6m2} alt=""/>
                 <img src={IMG_3111} alt=""/>
               </Media>
         <div className="content">
-              <p>I glued each layer of foam with contact cement. While gluing, I made sure to wear a respirator and gloves in a well-ventilated area to avoid inhaling or touching the contact cement.</p>
-              <p>After assembling, I used a rotary tool to smooth out the edges of the gems and add small squiggles to them. While using the rotary tool, I wore safety glasses and a dust mask to protect myself.</p>
+              <p>I used 2mm EVA foam for the base, 5mm half dowels for the rounded lines, and puff paint for the tiny filigree.</p>
+              <p>To assemble, I glued each layer of foam with contact cement. While gluing, I made sure to wear a respirator and gloves in a well-ventilated area to avoid inhaling or touching the contact cement.</p>
         </div>
               <Media>
                 <img src={IMG_3252} alt=""/>
                 <img src={IMG_3258} alt=""/>
-                <img src={Gaqy1oSWwAAH78i} alt=""/>
+              </Media>
+        <div className="content">
+              <p>After assembling, I used a rotary tool with a small stone bit (see left photo) to smooth out the edges of the gems and add small squiggles to them. While using the rotary tool, I wore safety glasses and a dust mask to protect myself.</p>
+        </div>
+              <Media>
+                <img src={IMG_1121} alt=""/>
+                <img src={IMG_3283} alt=""/>
               </Media>
         <div className="content">
               <p>The paint is PlaidFX flexible acrylic paint. I used a few layers of their primer, a few layers of gold, and added some iridescent highlights. The gems are painted with multiple layers of aqua and iridescent paint.</p>
@@ -387,11 +416,17 @@ function Wavemother() {
         <div className="content">
               <p>To attach the shoulder armor to the dress, I used two-part purse magnets. I stitched one side to the dress and glued the other side to the armor with E6000. Since this glue is toxic, I wore a respirator and gloves in a well-ventilated area while working with it.</p>
               <p>I also made sure to score the surface of the foam with a knife so the glue had more purchase.</p>
-              <p>The magnets make it very easy to put the armor on. They also lower the risk of breaking anything. For example, if the armor gets caught on my wig it'll just pop off!</p>
         </div>
               <Media>
                 <img src={Gaq2kiCW8AAkKh} alt=""/>
                 <img src={Gaq2kiDXgAAiJEk} alt=""/>
+              </Media>
+        <div className="content">
+              <p>The magnets make it very easy to put the armor on. They also lower the risk of breaking anything. For example, if the armor gets caught on my wig it'll just pop off!</p>
+        </div>
+              <Media>
+                <img src={IMG_3623} alt=""/>
+                <img style={{width:'28%'}} src={IMG_3619} alt=""/>
               </Media>
         <div className="content">
             <h3>Owlbear Plush</h3>
@@ -426,8 +461,7 @@ function Wavemother() {
               </Media>
         <div className="content">
             <h3>Improvements</h3>
-              <p>My first grievance was the center front illusion panel. The fabric would wrinkle and I didn’t love the way it fit.</p>
-              <p>I was nervous about removing it, but knew I wouldn’t want to wear the costume again if I left it as-is. It really wasn’t bad, but you can clearly see the panel.</p>
+              <p>My first grievance was the center front skin tone panel. The fabric would wrinkle and I didn’t love the way it looked. Even though I was nervous about removing it, I knew I wouldn’t want to wear the costume again if I left it as-is.</p>
               <p>Right photo by Infinity Spiral Photography.</p>
         </div>
               <Media>
@@ -435,19 +469,34 @@ function Wavemother() {
                 <img src={DSCF0211} alt=""/>
               </Media>
         <div className="content">
-              <p>To fix it, I removed most of the panel, made a really strong nylon mesh strap to hold the center front together, and added some boning to the cutout. </p>
-              <p>It’s a little bit messier on the inside now, but well worth it. The clear strap is super hard to see from a normal distance.</p>
+              <p>The first step to fixing it was removing most of the panel. As you can see from these progress photos, I was not happy with the initial change and was very worried that I made the wrong decision. Thankfully it got better from there!</p>
+        </div>
+              <Media>
+                <img src={IMG_4806} alt=""/>
+                <img src={IMG_5557} alt=""/>
+              </Media>
+        <div className="content">
               <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume :')</p>
+              <p>Next, I made a really strong clear strap out of nylon corset mesh to hold the center front together. This caused the neckline below the strap to wrinkle, so I added spiral steel boning to each size of the V.</p>
         </div>
               <Media>
                 <img src={GawpcT0WEAAJOmK} alt=""/>
-                <img src={GawpcT2WAAACL6x} alt=""/>
+                <img src={IMG_5627} alt=""/>
+              </Media>
+        <div className="content">
+              <p>The narrow point of the V neckline is still the skin tone panel! I left it in to cover the waistband of my tights. Thankfully you can barely tell it's there because the horizontal coral connector hides the transition.</p>
+              <p>Can you tell I was much happier with the changes at this point? XD</p>
+        </div>
+              <Media>
+                <img src={IMG_5505} alt=""/>
+                <img src={IMG_5641} alt=""/>
               </Media>
         <div className="content">
               <p>The other upgrade I made to the center front was to sculpt a new jewelry connector. In part to be more accurate, and in part to cover the clear strap that I just added. </p>
         </div>
               <Media>
-                <img src={Gawuf3qWoAA272e} alt=""/>
+                <img src={IMG_5612} alt=""/>
+                <img src={IMG_5614} alt=""/>
               </Media>
         <div className="content">
               <p>I free-hand sculpted it from worbla and painted with PlaidFX acrylics.</p>
@@ -462,13 +511,20 @@ function Wavemother() {
               <p>I patterned it by folding a huge piece of paper, making sure to include the pleats. </p>
         </div>
               <Media>
-                <img style={{width:'35%'}} src={Gaw3A7SW0AAeCYM} alt=""/>
+                <img style={{width:'15%'}} src={IMG_5142} alt=""/>
+                <img style={{width:'25%'}} src={Gaw3A7SW0AAeCYM} alt=""/>
               </Media>
         <div className="content">
               <p>The wave motif was hand drawn and painted with acrylics and silver gel pen. Before painting, I thread marked the outline so I didn't need to use pencil or chalk. It was really soothing to sit outside and paint.</p>
         </div>
               <Media>
+                <img src={IMG_5088} alt=""/>
                 <img src={Gaw3A7TWAAEAHzz} alt=""/>
+              </Media>
+        <div className="content">
+              <p>The cape itself was sewn with leftover fabric from the dress.</p>
+        </div>
+              <Media>
                 <img src={Gaw3A7QWUAAGqoO} alt=""/>
               </Media>
         <div className="content">
@@ -483,17 +539,24 @@ function Wavemother() {
             <h3>Staff</h3>
               <p>Now to really look the part of a wizard, I made the starting quarterstaff from BG3.</p>
               <p>I planned to bring this prop to a river photoshoot, so my goal was to make it quickly & cheaply in case it was damaged by the water. (🎶Down, down, down by the river...🎵)</p>
-              <p>I cut a 1.25” x 72” wooden dowel down to 64” with a hand saw, glued some fabric strips in place with E6000, contact cemented the EVA foam details, and added paint!</p>
-              <p>As always, I wore a respirator and gloves in a ventialted area when working with E6000 and contact cement.</p>
         </div>
               <Media>
-                <img src={GaxOJj5WgAACszH} alt=""/>
+                <img src={IMG_6506} alt=""/>
                 <img src={GaxOJj4WAAAmWdB} alt=""/>
+              </Media>
+        <div className="content">
+              <p>I bought a $10 wooden dowel, glued some leftover fabric strips in place with E6000, and added 5mm EVA foam end caps with contact cement.</p>
+              <p>As always, I wore a respirator and gloves in a well-ventialted area when working with E6000 and contact cement.</p>
+        </div>
+              <Media>
+                <img src={IMG_6485} alt=""/>
+                <img src={IMG_6501} alt=""/>
               </Media>
         <div className="content">
               <p>I experimented with a "verdigris" look by using some teal, aqua, and brown paint. This typically happens to metal when exposed to the elements, so I felt it was fitting for a water-themed outfit. </p>
         </div>
               <Media>
+                <img src={GaxOJj5WgAACszH} alt=""/>
                 <img src={GaxOJj4WoAA4C5A} alt=""/>
               </Media>
         <div className="content">
