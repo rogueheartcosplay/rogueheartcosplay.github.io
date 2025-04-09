@@ -100,6 +100,7 @@ import IMG_3493 from '../../../assets/IMG_3493.jpeg'
 import IMG_3561 from '../../../assets/IMG_3561.jpeg'
 import IMG_3570 from '../../../assets/IMG_3570.jpeg'
 import IMG_3592 from '../../../assets/IMG_3592.jpeg'
+import IMG_6664 from '../../../assets/IMG_6664.jpeg'
 import Gaq49CbWwAAnN4w from '../../../assets/Gaq49CbWwAAnN4w.jpeg'
 import DSCF0211 from '../../../assets/DSCF0211.jpg'
 
@@ -121,8 +122,8 @@ function Wavemother() {
         </Media>
         <div className="content">
             <h3>About the Costume</h3>
-              <p>I fell in love with Baldur's Gate 3 and decided to cosplay the Wavemother's Robe. What started as a "simple" project quickly turned into year-long adventure that taught me new techniques and brought me out of my comfort zone.</p>
-              <p>This costume also encouraged me to iterate on my work and make improvements after it was "done". Building up the courage to seam rip my previous work and replace it with something better was difficult, but I'm glad I did it.</p>
+              <p>For most, the Wavemother's Robe is an iconic armor set from Baldur's Gate 3. For me, it's a costume that brought me out of my comfort zone and taught me unexpected new skills.</p>
+              <p>One of which was the confidence to iterate on my work and make improvements after it was "done". Building up the courage to rip out my previous work was difficult, but I'm glad I did it — even if it turned a "simple" project turned into a year-long adventure.</p>
               <p>Photo credits: Infinity Spiral Photography</p>
             <h3>Patterning</h3>
               <p>
@@ -300,7 +301,7 @@ function Wavemother() {
                 <img src={IMG_0392} alt=""/>
               </Media>
         <div className="content">
-              <p>Lastly, I found some opaque skin tone dance tights. These help keep me comfortable and are hardly noticable in photos. (Mariia Dancewear True Bare tights in NO1, if you were curious!)</p>        
+              <p>Lastly, I found some opaque skin tone dance tights. These made me feel more comfortable and were hardly noticable in photos. (Mariia Dancewear True Bare tights in NO1, if you were curious!)</p>        
         </div>
               <Media>
                 <img src={DSCF0315} alt=""/>
@@ -384,9 +385,9 @@ function Wavemother() {
                 <img src={Gaq1iHjXMAEIGtC} alt=""/>
               </Media>
         <div className="content">
-              <p>To attach the shoulder armor to the dress, I used purse magnets. I stitched the magnets to the dress and glued to the shoulder armor with E6000. Since this glue is toxic, I wore a respirator and gloves in a well-ventilated area while working with it.</p>
+              <p>To attach the shoulder armor to the dress, I used two-part purse magnets. I stitched one side to the dress and glued the other side to the armor with E6000. Since this glue is toxic, I wore a respirator and gloves in a well-ventilated area while working with it.</p>
               <p>I also made sure to score the surface of the foam with a knife so the glue had more purchase.</p>
-              <p>The magnets make it very easy to put the armor on. They also lower the risk of breaking anything if the armor gets caught on my wig — they'll just pop off!</p>
+              <p>The magnets make it very easy to put the armor on. They also lower the risk of breaking anything. For example, if the armor gets caught on my wig it'll just pop off!</p>
         </div>
               <Media>
                 <img src={Gaq2kiCW8AAkKh} alt=""/>
@@ -502,6 +503,7 @@ function Wavemother() {
         </div>
               <Media>
                 <img src={GaxP3M1WcAAUJYV} alt=""/>
+                <img src={IMG_6664} alt=""/>
                 <img src={GaxP3M0XEAAkg1X} alt=""/>
               </Media>
         <div className="content">
