@@ -477,7 +477,7 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>This also meant that I needed to remove the built-in bra that I created for the costume. I was sad to see it go, but it's undamaged and can be used for another costume :')</p>
-              <p>Next, I made a really strong clear strap out of nylon corset mesh to hold the center front together. This caused the neckline below the strap to wrinkle, so I added spiral steel boning to each size of the V.</p>
+              <p>Next, I made a really strong clear strap out of nylon corset mesh to hold the center front together. This caused the neckline below the strap to wrinkle, so I added spiral steel boning to each side of the V.</p>
         </div>
               <Media>
                 <img src={GawpcT0WEAAJOmK} alt=""/>
