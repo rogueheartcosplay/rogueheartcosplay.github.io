@@ -141,7 +141,7 @@ function Wavemother() {
         <div className="content">
             <h3>About the Costume</h3>
               <p>For most, the Wavemother's Robe is an iconic armor set from Baldur's Gate 3. For me, it's a costume that brought me out of my comfort zone and taught me unexpected new skills.</p>
-              <p>One of which was the confidence to iterate on my work and make improvements after it was "done". Building up the courage to rip out my previous work was difficult, but I'm glad I did it — even if it turned a "simple" project turned into a year-long adventure.</p>
+              <p>One of which was the confidence to iterate on my work and make improvements after it was "done". Building up the courage to rip out my previous work was difficult, but I'm glad I did it — even if it turned a "simple" project into a year-long adventure.</p>
               <p>Photo credits: Infinity Spiral Photography</p>
             <h3>Patterning</h3>
               <p>
