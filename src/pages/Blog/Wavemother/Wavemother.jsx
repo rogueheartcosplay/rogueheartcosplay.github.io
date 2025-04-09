@@ -546,7 +546,7 @@ function Wavemother() {
               </Media>
         <div className="content">
               <p>I bought a $10 wooden dowel, glued some leftover fabric strips in place with E6000, and added 5mm EVA foam end caps with contact cement.</p>
-              <p>As always, I wore a respirator and gloves in a well-ventialted area when working with E6000 and contact cement.</p>
+              <p>As always, I wore a respirator and gloves in a well-ventilated area when working with E6000 and contact cement.</p>
         </div>
               <Media>
                 <img src={IMG_6485} alt=""/>
@@ -572,7 +572,7 @@ function Wavemother() {
         <div className="content">
             <h3>Finished Costume</h3>
               <p>That concludes the build :) Please enjoy more photos of the finished costume! </p>
-              <p>P.S. This was not originally planned as a competition build, but I decided to enter an online contest with it. I was delighted to win Best Journeyman!</p>
+              <p>P.S. This was not originally planned as a competition build, but I decided to enter an online contest (C3 ExtraLife) with it. I was delighted to win Best Journeyman!</p>
               <p>Photo credits: Infinity Spiral Photography</p>
         </div>
               <Media>
