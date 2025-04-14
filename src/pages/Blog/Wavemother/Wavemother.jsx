@@ -305,7 +305,7 @@ function Wavemother() {
                 <img src={IMG_0642} alt=""/>
               </Media>
         <div className="content">
-              <p>I used power mesh, underwire, hooks & eyes, elastic, coutil, and plush underwire casing. Since I liked the fit of the bra I own, I copied its construction instead of using a tutorial.</p>
+              <p>I used power mesh, underwire, hooks & eyes, elastic, coutil, and plush underwire casing. Since I liked the fit of the bra I own, I copied its construction.</p>
         </div>
               <Media>
                 <img src={IMG_0662} alt=""/>
