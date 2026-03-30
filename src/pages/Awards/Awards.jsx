@@ -8,6 +8,8 @@ function Awards() {
       <Hero/>
       <div className="content">
         <h1>Awards and Contests</h1>
+        <h2>2026</h2>
+        <p><strong>3rd Place Overall</strong> - C2E2 Crown Championships of Cosplay (Chicago Qualifier)</p>
         <h2>2025</h2>
         <p><strong>Best Masters Craftsmanship</strong> - Fan Expo Chicago Masters of Cosplay Windy City Qualifier</p>
         <p><strong>Best Build Log</strong> - Cosplay Tutorial Challenge</p>
