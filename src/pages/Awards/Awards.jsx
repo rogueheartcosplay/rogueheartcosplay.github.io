@@ -17,7 +17,7 @@ function Awards() {
         <p><strong>Best Journeyman Craftsmanship</strong> - C3 ExtraLife Cosplay Contest </p>
         <h2>2023</h2>
         <p><strong>Best Masters Craftsmanship</strong> - Fan Expo Chicago Craftsmanship Cup</p>
-        <p><strong>Juried Participant</strong> - C2E2 Crown Championships of Cosplay (Chicago Qualifier)</p>
+        <p><strong>Juried Competitor</strong> - C2E2 Crown Championships of Cosplay (Chicago Qualifier)</p>
         <p><strong>Best in Show</strong> - Uchi Con Cosplay Contest</p>
       </div>
     </div>
