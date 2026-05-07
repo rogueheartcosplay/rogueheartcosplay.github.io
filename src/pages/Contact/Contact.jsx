@@ -12,7 +12,6 @@ function Contact() {
         <p>rogueheartcosplay@gmail.com</p>
         <h2>Social Media</h2>
         <a href="https://www.instagram.com/rogueheartcosplay/" target="_blank">Instagram</a>
-        <a href="https://www.youtube.com/@rogueheartcosplay" target="_blank">Youtube</a>
       </div>
     </div>
   )
